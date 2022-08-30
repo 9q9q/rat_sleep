@@ -1,2 +1,3 @@
-# rat_sleep
-bmm summer 22 project
+Notebooks and utils for LFP/spike analysis.
+
+See requirements.txt for required packages.
